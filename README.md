@@ -1,7 +1,7 @@
 # Hey there! I'm Krishan
+
 ### About me🧑:
 I am an Electrical Engineering student at Delhi Technological University.<br/>
-
 
 - 🔭 I’m currently working on ML and AI related projects.
 - ⚡ Fun fact: I 💖 to code 24x7.
@@ -25,7 +25,7 @@ Languages and Tools🛠:
 <code><img height="20" src="https://jupyter.org/assets/homepage/main-logo.svg"></code>
 <code><img height="20" src="https://www.spyder-ide.org/static/images/spyder_logo.png?h=7f1693dc"></code>
 <code><a href="https://kubuntu.org/"><img height="20" src="https://kubuntu.org/wp-content/uploads/2016/10/97c5/Kubuntu_logo_and_wordmark.svg"></a></code>
-<code> <a href="https://kate-editor.org/"> <img height="20" src="https://kate-editor.org/images/kate.svg"></a></code>
+<code><a href="https://kate-editor.org/"> <img height="20" src="https://kate-editor.org/images/kate.svg"></a></code>
 </details>
 
 ----
@@ -56,7 +56,7 @@ Languages and Tools🛠:
   </a>
 
 <a href="https://github.com/blaze-fire">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=blaze-fire&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=blaze-fire&show_icons=true&theme=tokyonight&line_height=27" alt="Krishan's github stats"/>
 </a>
 
 <br/>
@@ -80,7 +80,3 @@ Languages and Tools🛠:
 <a href="https://github.com/blaze-fire/Job-A-Thon">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blaze-fire&repo=Job-A-Thon&theme=tokyonight" />
 </a>
-
-
-
-
